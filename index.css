@@ -354,3 +354,62 @@
 
 
 
+
+
+
+
+/* SECTION 5  */
+.section5 {
+    background-color: #0b021d;   
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 20px;
+    box-shadow: 0 0 30px rgba(128, 0, 255, 0.15);
+    padding: 60px 30px;
+    margin: 80px auto;
+    max-width: 1000px;
+    text-align: center;
+    font-family: 'Segoe UI', sans-serif;
+    color: white;
+}
+
+
+.milieu51 h1 {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 1.4;
+    margin-bottom: 30px;
+}
+
+
+.milieu52 p {
+    font-size: 15px;
+    color: #cccccc;
+    line-height: 1.6;
+    max-width: 750px;
+    margin: 0 auto 40px;
+}
+
+
+.milieu53 button {
+    padding: 12px 28px;
+    font-size: 15px;
+    border-radius: 30px;
+    background: transparent;
+    border: 1px solid white;
+    color: white;
+    cursor: pointer;
+    
+}
+
+.milieu53 button:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+
+
+
+
+
+
+
+
