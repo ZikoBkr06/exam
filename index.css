@@ -218,3 +218,74 @@
     max-width: 600px;
     margin: 0 auto;
 }
+
+
+
+
+
+
+
+
+/* SECTION 3 */
+.section3 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 80px;
+    padding: 80px 20px;
+    background-color: #0b021d;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+
+.gauchesec3, .droitesec3 {
+    background: radial-gradient(circle at top left, rgba(255, 255, 255, 0.05), #0b021d);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 16px;
+    box-shadow: 0 0 25px rgba(128, 0, 255, 0.15);
+    padding: 30px 25px;
+    max-width: 420px;
+    color: white;
+    
+}
+
+.gauchesec3:hover, .droitesec3:hover {
+   
+    box-shadow: 0 0 35px rgba(128, 0, 255, 0.3);
+}
+
+
+.gauchesec3 img, .droitesec3 img {
+    height: 40px;
+    margin-bottom: 20px;
+}
+
+
+.gauchesec3 h1, .droitesec3 h1 {
+    font-size: 20px;
+    margin-bottom: 15px;
+    color: #ffffff;
+}
+
+
+
+
+
+.link {
+    margin-top: 15px;
+    font-size: 14px;
+    color: #7c9eff;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
